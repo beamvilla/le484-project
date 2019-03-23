@@ -415,7 +415,7 @@
             <File>
               <FileName>timer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\Inc\timer.c</FilePath>
+              <FilePath>..\Src\timer.c</FilePath>
             </File>
           </Files>
         </Group>
